@@ -1,4 +1,4 @@
-
+"use client";
 import { ShoppingCart, Bell, MapPin, Home, Filter, Plus } from "lucide-react"
 import { useCart } from "@/context/AuthContext";
 import { useRouter } from "next/navigation";
