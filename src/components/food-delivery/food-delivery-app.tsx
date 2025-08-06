@@ -104,7 +104,7 @@ const router = useRouter();
               
 <button
   onClick={() => {
-    addToCart(burger);
+addToCart({ ...burger, quantity: 1 });
     router.push("/cart");
   }}
   className="bg-yellow-500 hover:bg-yellow-600 text-black w-8 h-8 rounded-full p-0"
