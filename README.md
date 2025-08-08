@@ -6,6 +6,7 @@ A **simple full-stack project** built with **Next.js (TypeScript)** for the fron
 
 ## 🚀 Live Demo
 [🔗 View Project](https://egypt-burgerking-delivery.vercel.app/) 
+
 ---
 
 ## 📦 Features
@@ -30,8 +31,8 @@ A **simple full-stack project** built with **Next.js (TypeScript)** for the fron
 
 ## 📷 Screenshots
 <!-- ضع صور أو GIF للمشروع -->
-![App Screenshot](../egypt-burgerking-delivery/public/Screenshot%202025-08-08%20034311.png)
-![App Screenshot](../egypt-burgerking-delivery/public/Screenshot%202025-08-08%20034335.png)
+![App Screenshot](public/Screenshot%202025-08-08%20034311.png)
+![App Screenshot](public/Screenshot%202025-08-08%20034335.png)
 
 ---
 
