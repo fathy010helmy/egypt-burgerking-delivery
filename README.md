@@ -1,30 +1,43 @@
-# 📦 egypt-burgerking-delivery
+# 📦 Egypt Burger King Delivery
 
-A simple full-stack project built with **Next.js (TypeScript)** and **JSON Server** as a fake REST API.
-
----
-
-## 🚀 Features
-
-- Frontend: Next.js with TypeScript
-- Backend: JSON Server
-- Fake API with full egypt-burgerking-delivery
-- Local development with 2 servers
-- Easy to deploy on Vercel (frontend only)
+A **simple full-stack project** built with **Next.js (TypeScript)** for the frontend and **JSON Server** as a fake REST API for the backend.
 
 ---
 
-## 🧰 Tech Stack
+## 🚀 Live Demo
+[🔗 View Project](https://egypt-burgerking-delivery.vercel.app/) 
+---
 
-- **Frontend:** Next.js, TypeScript, Tailwind CSS 
-- **Backend:** JSON Server (db.json)
+## 📦 Features
+- 🖥 **Frontend**: Next.js with TypeScript
+- 💾 **Backend**: JSON Server
+- 📡 Fake REST API with `db.json`
+- 🔄 Local development with **two servers** (frontend & backend)
+- ☁️ Easy deployment on **Vercel** (frontend only)
 
 ---
 
-## 🛠️ Installation & Setup
+## 🛠 Tech Stack
+**Frontend**:
+- Next.js
+- TypeScript
+- Tailwind CSS
 
-### 1. Clone the project
+**Backend**:
+- JSON Server (`db.json`)
 
+---
+
+## 📷 Screenshots
+<!-- ضع صور أو GIF للمشروع -->
+![App Screenshot](../egypt-burgerking-delivery/public/Screenshot%202025-08-08%20034311.png)
+![App Screenshot](../egypt-burgerking-delivery/public/Screenshot%202025-08-08%20034335.png)
+
+---
+
+## ⚙️ Installation & Setup
+
+### 1️⃣ Clone the project
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
